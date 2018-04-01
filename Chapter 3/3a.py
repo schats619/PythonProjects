@@ -15,4 +15,4 @@ options = {0: testrange,
             2: testrange2,
 }
 
-options[0] ()
+options[2]()

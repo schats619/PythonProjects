@@ -1,3 +1,5 @@
+#Calculate the Gregorian epact with a given year
+
 import cmath
 
 def gregEpact():

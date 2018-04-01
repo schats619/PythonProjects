@@ -1,3 +1,5 @@
+#solution is 012 , done
+
 import cmath
 
 def range3():
